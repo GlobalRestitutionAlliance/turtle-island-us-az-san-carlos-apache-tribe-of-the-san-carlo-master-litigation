@@ -1,6 +1,6 @@
 # US AZ SAN CARLOS APACHE TRIBE OF THE SAN CARLO - Litigation Framework
 
-**Template:** CUBA-adapted framework
+**Template:** GRA litigation framework
 **Generated:** 2026-11-21
 **Status:** SCAFFOLD - verification required. No fabricated citations.
 
